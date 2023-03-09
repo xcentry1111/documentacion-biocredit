@@ -1,0 +1,7 @@
+site_name: Documentación BioCredit
+theme: readthedocs
+
+nav:
+  - Inicio: 'index.md'
+  - 'Crédito Web e-commerce':
+    - 'Integración': 'ecommer-web.md'
